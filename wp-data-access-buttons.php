@@ -1,11 +1,11 @@
 <?php
 /**
 * Plugin Name: WP Data Access Buttons
-* Plugin URI: https://www.yourwebsiteurl.com/
+* Plugin URI: https://github.com/judsonmitchell/wp-data-access-buttons
 * Description: Adds dataTables Buttons to a WP Data Access Table.
 * Version: 1.0beta
 * Author: Judson Mitchell
-* Author URI: http://yourwebsiteurl.com/
+* Author URI: https://github.com/judsonmitchell/
 **/
 
 function add_dataTables_buttons(){
