@@ -14,4 +14,7 @@ your configuration options for the buttons like so:
 For more information, have a look [at this thread from the WP Data Access 
 forum](https://wordpress.org/support/topic/adding-datatables-extensions/#post-12788735). 
 
+A zip archive suitable for uploading to WordPress is [available 
+here](https://github.com/judsonmitchell/wp-data-access-buttons/releases/tag/v1.0)
+
 Pull requests and suggestions welcome!
